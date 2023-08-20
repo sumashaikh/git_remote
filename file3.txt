@@ -1,0 +1,61 @@
+
+1 question:
+a = [1,2,3,4]
+print(a[3]) #output=4 
+but when i want to print(a[4]) its shows me index error
+how to solve this problem used the exception
+
+2 question:
+
+Type error-->
+a=10
+c=10
+a1="ten"
+c1="sss"
+print(a+c)# 20
+print(a1+c1)# tensss
+print(a+a1)# type error
+print(c+c1)# type error
+how to handle this program used exception
+
+
+3: question
+keyerror:
+dic={'a':1,'b':33,'c':88,'z':44}
+print(dic['a'])#-->o/p=1
+print(dic['c'])# --->o/p=88
+
+print(dic['x'])# -->o/p= keyerror 
+how to handle this program used exception
+
+4:question
+import math
+c=30 
+a=-10 
+print(math.sqrt(c))# o/p-->900
+print(math.sqrt(a))# value error 
+how to handle this program used exception
+
+
+
+"""question 5
+take any your own example 
+create class display the properties
+"""
+question 6
+#create class child enhance parent some properties
+
+question 7
+
+create class used the multilevel inheritance
+create class used the multiple inheritance
+
+question 8
+diffrence between constructor and method using example
+
+question 9
+create class using static method nd class method
+
+
+
+
